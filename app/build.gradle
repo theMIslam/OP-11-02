@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace 'com.example.op11_02'
-    compileSdk 33
+    compileSdk 21
 
     defaultConfig {
         applicationId "com.example.op11_02"
-        minSdk 33
+        minSdk 21
         targetSdk 33
         versionCode 1
         versionName "1.0"
